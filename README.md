@@ -9,11 +9,13 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios agregar
 - **Sorteo aleatorio**: Selecciona un nombre al azar y lo muestra en pantalla.
 - **Validación de mínimo**: El sorteo solo se realiza si hay al menos 3 nombres en la lista.
 
-## 📂 Estructura del proyecto.
-- index.html #Estructura principal de la aplicación
-- style.css # Estilos de la interfaz
-- app.js # Lógica de la aplicación
-- assets/ # Imágenes y recursos visuales
+## 📂 Estructura del proyecto
+```text
+.
+├── index.html      # Estructura principal
+├── style.css       # Estilos visuales
+├── app.js          # Lógica de la aplicación
+└── assets/         # Imágenes usadas
 
 
 ## 🚀 Instalación y ejecución
