@@ -16,7 +16,7 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios agregar
 ├── style.css       # Estilos visuales
 ├── app.js          # Lógica de la aplicación
 └── assets/         # Imágenes usadas
-
+```text
 
 ## 🚀 Instalación y ejecución
 1. **Clona el repositorio**:
