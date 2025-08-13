@@ -10,10 +10,10 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios agregar
 - **Validación de mínimo**: El sorteo solo se realiza si hay al menos 3 nombres en la lista.
 
 ## 📂 Estructura del proyecto.
-├── index.html # Estructura principal de la aplicación
-├── style.css # Estilos de la interfaz
-├── app.js # Lógica de la aplicación
-└── assets/ # Imágenes y recursos visuales
+- index.html #Estructura principal de la aplicación
+- style.css # Estilos de la interfaz
+- app.js # Lógica de la aplicación
+- assets/ # Imágenes y recursos visuales
 
 
 ## 🚀 Instalación y ejecución
