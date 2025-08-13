@@ -33,4 +33,5 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios agregar
 
 ## ⚠️ Posibles problemas y soluciones
 - Si el botón de sorteo no funciona, asegúrate de que app.js esté correctamente enlazado en el HTML:
-- <script src="app.js" defer></script>
+   ```bash
+    <script src="app.js" defer></script>
